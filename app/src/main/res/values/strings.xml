@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lesson1</string>
+    <string name="username">Username</string>
+    <string name="sing_in_to_continue">Sing in to continue</string>
+    <string name="hello_there_welcome_back">HELLO THERE, WELCOME BACK</string>
+    <string name="todo">TODO</string>
+    <string name="password">Password</string>
+    <string name="forget_password">FORGET PASSWORD?</string>
+    <string name="go">GO</string>
+    <string name="new_user_sign_up">NEW USER? SIGN UP</string>
+</resources>
