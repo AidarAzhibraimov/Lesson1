@@ -5,8 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="@color/white"
-    >
+    android:background="@color/white">
 
     <ImageView
         android:id="@+id/imageView"
@@ -42,8 +41,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_dis1" />
 
-
-
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/et_username"
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
@@ -67,8 +64,10 @@
             android:id="@+id/editText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:ellipsize="end"
-            android:maxLines="1" />
+            android:maxLines="1"
+            android:inputType="textEmailAddress"
+
+            />
     </com.google.android.material.textfield.TextInputLayout>
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/ed_password"
@@ -94,7 +93,7 @@
             android:layout_height="wrap_content"
             android:ellipsize="end"
             android:maxLines="1"
-            android:inputType="numberPassword" />
+            android:inputType="textPassword" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <TextView

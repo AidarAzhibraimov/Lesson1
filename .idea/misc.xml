@@ -6,8 +6,14 @@
         <entry key="../../../../layout/custom_preview.xml" value="0.10625" />
         <entry key="app/src/main/res/drawable/edir_text.xml" value="0.21197916666666666" />
         <entry key="app/src/main/res/drawable/edit_text.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.21197916666666666" />
         <entry key="app/src/main/res/drawable/radius.xml" value="0.21197916666666666" />
+        <entry key="app/src/main/res/drawable/radius_photo.xml" value="0.21197916666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_second.xml" value="0.25" />
       </map>
     </option>
   </component>

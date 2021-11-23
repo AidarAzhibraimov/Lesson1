@@ -8,4 +8,12 @@
     <string name="forget_password">FORGET PASSWORD?</string>
     <string name="go">GO</string>
     <string name="new_user_sign_up">NEW USER? SIGN UP</string>
+    <string name="telephone">Telephone</string>
+    <string name="email">Email</string>
+    <string name="private_information">Private Information</string>
+    <string name="firstname">Firstname</string>
+    <string name="name">Name</string>
+    <string name="edit_photo">Edit photo</string>
+    <string name="password_error_text">Пароль должен быть больше 6 символов</string>
+    <string name="username_error_text">Введите логин</string>
 </resources>
